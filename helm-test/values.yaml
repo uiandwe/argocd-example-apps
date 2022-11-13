@@ -1,1 +1,1 @@
-image: nginx:stable
+image: nginx:latest
